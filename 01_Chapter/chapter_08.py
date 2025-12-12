@@ -14,7 +14,8 @@ print(name + " " + name2)
 
 print(name * 3)
 
-#bytearray
+#bytearray # in bytes it returns a new bytearray object
+
 
 
 byte_name = bytearray(b"sai kiran")
