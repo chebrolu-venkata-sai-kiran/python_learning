@@ -20,10 +20,12 @@
 
 #return multiple values 
 
-def report():
-    return "success", 10, 20, 30
+# def report():
+#     return "success", 10, 20, 30
 
 
-status ,value1 ,value2,value3 = report()
+# status ,value1 ,value2,value3 = report()
 
-print(status,value1,value2,value3)
+# print(status,value1,value2,value3)
+
+# success 10 20 30
