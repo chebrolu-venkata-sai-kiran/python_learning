@@ -1,0 +1,7 @@
+purpose and benifit of the function
+
+resuable and modular code using def
+
+improve readability ,tracebility and manitainabilithy with functions
+
+bread down large task into smaller steps using well_named functions
