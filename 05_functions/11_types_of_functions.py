@@ -8,6 +8,7 @@ def add_numbers(a, b):
 
 # Impure functions: They modify the state of the program or external resources,
 #  and can have unpredictable behavior. They cannot be easily tested and debugged.
+# in the impure functions it will modify the global values which can cause issue in the application
 
 def modify_list(lst, index, value):
     lst[index] = value
