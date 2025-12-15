@@ -6,8 +6,8 @@ initially started with the python variables
 
 in chapter 2 we have the python syntax and keywords
 
-in chapter 3 we have the conditionals like if else etc 
+in chapter 3 we have the conditionals like if else etc.
 
-in chapter 4 we have discussed regarding the loops 
+in chapter 4 we have discussed regarding the loops.
 
-in chapter 5 we have functions related all the files like global variables nested functions etc
+in chapter 5 we have functions related all the files like global variables nested functions input params,return types lambda and built in functions.
