@@ -1,0 +1,23 @@
+comprehensions are a concise way to create ist ,sets,dictionaries or generators in python
+using a single line of code
+
+some of the below implementation
+
+filter item
+
+transform item 
+
+creating new collection
+
+flattened nested structure
+
+purpose is it is a cleaner code and faster code 
+
+comprehensions : 
+example 1
+[item for item in iterable if condition]
+
+example 2 
+[k for item in iterable for k in item]
+
+here we are giving the final output which we need in the list as K
