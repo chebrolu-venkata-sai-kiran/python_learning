@@ -2,7 +2,7 @@
 
 # we need to add the """""" while writing the functions so it can be easy to use the function and understand
 
-
+# __ is called as dhunder so __doc__ is called as dhunder doc
 
 # def drink():
 #     '''This function returns a string stating the user can drink.'''
