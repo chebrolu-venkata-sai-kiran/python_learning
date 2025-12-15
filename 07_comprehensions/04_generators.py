@@ -12,7 +12,7 @@ gen_price = (price[i] for i in range(len(price)) if price[i] % 2 == 0)
 # printing the generator
 
 for i in gen_price:
-    print(i)
+    print(i,end= ',')
 
 
 # for suppose if we need sum of all the items which is divisible by two in this case we can use the generator
