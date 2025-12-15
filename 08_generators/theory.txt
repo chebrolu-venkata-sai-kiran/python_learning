@@ -1,0 +1,9 @@
+generators use cases
+
+in generators we save memory
+
+when we don't want the results immediatley
+
+lazy evaluation
+
+we have Yield ,next(),send(),yield from and close() these all for the generators.
