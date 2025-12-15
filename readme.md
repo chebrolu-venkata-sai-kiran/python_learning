@@ -10,4 +10,6 @@ in chapter 3 we have the conditionals like if else etc.
 
 in chapter 4 we have discussed regarding the loops.
 
-in chapter 5 we have functions related all the files like global variables nested functions input params,return types lambda and built in functions.
+in chapter 5 we have functions related all the files like global variables nested functions input params,return types ,lambda , built in functions , importing files and functions .
+
+in chapter 6 we are learning about the import and ways of the import.
