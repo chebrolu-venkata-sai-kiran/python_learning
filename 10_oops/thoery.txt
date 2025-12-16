@@ -1,0 +1,14 @@
+the blue print if the class and the instanse of the blue print is called as object in python
+
+class is also an object in python
+
+each object is having the the own entity which is called namespaces
+
+inside the class whenever the variable goes it is called properties
+
+we can change the properties of the objects it will not have the impact on the class by default 
+
+the vairables inside the class and objects are called as the attibute
+
+if we create the functions in the classed those are called as the methods with the self arguments
+
