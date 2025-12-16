@@ -19,3 +19,5 @@ in chapter 7 we are learning about the comprehensions in list, set ,dictionary a
 in chapter 8 we are learning about generators.
 
 in chapter 9 we are learning about decorators and logging decorators
+
+in chapter 10 we are learning about the OOPS and it's use cases.
