@@ -16,4 +16,6 @@ in chapter 6 we are learning about the import and ways of the import.
 
 in chapter 7 we are learning about the comprehensions in list, set ,dictionary and generators.
 
-in chapter 8 we are learning about generators more
+in chapter 8 we are learning about generators.
+
+in chapter 9 we are learning about decorators and logging decorators
