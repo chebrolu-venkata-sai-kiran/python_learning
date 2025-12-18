@@ -1,0 +1,10 @@
+In python we need to handle the error to handle and to avoid the crashing the whole program with the handeling errors
+
+we have multiple error types
+
+Index error
+Key error
+zero division error
+type error
+name error
+etc
