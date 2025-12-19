@@ -1,0 +1,17 @@
+concurency : i want to multiple task at once some specified task happened to do one task and switch 
+to another task with out affrecting it can do with single core
+
+prarallelism:
+running multiple task at the same time using different cores
+
+concurency                       prarallelism
+threading.Thread                 multiprocessing .Process
+asyncio                          concurrent.futures.ProcessPoolExecutor
+
+GIL Global Interpreter lock
+
+Mutex is a locking system using in the python
+
+if 1 thread touches the value they get the mutex if a theard having the mutex next thread will be unable to access the value 
+and change the value 
+
