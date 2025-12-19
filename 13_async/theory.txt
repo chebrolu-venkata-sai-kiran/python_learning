@@ -1,0 +1,4 @@
+async allows your program to multitask efficiently by switching between tasks while waiting for 
+slow operations to finish, instead of stopping everything
+
+it has the keywords of async , await and eventloop 
