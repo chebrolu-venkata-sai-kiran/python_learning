@@ -2,3 +2,7 @@ async allows your program to multitask efficiently by switching between tasks wh
 slow operations to finish, instead of stopping everything
 
 it has the keywords of async , await and eventloop 
+
+Non-daemon threads prevent the program from exiting until they finish their task, 
+whereas daemon threads are background services 
+that are abruptly terminated as soon as all non-daemon threads have completed.
