@@ -1,0 +1,12 @@
+Pydantic
+
+Pydantic is a python library which uses for the data validation and setting management
+
+data validation :
+
+data parsing and validation, API development ,config management , data seriaization and deserialization
+
+it allows to stop the data interchangablility of it's type 
+
+name = "kiran" if i update name =4 it will update 
+but with Pydantic it will not happen 
