@@ -6,10 +6,10 @@ class Item(BaseModel):
     id: int
     name: str =Field(
         ...,
-        min_lenght = 10,
+        min_length = 10,
         max_length = 50,
         example = "coke",
-        description = 'The name of the item'
+        description = "The name of the item",
         
     )
     department : Optional[str] = 'General'
@@ -18,13 +18,13 @@ class Item(BaseModel):
         ge = 10000,
         lt = 100000,
         example = 50000,
-        description = 'The salary of the employee'
+        description = 'The salary of the employee',
     )
 
 class User(BaseModel):
     email : str = Field(
         ...,
-        regex = r'^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$',
+        # regex = r'',
         example = 'john.doe@example.com',
-        description = 'The email of the user'   
+        description = 'The email of the user', 
     )
