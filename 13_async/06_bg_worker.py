@@ -12,7 +12,7 @@ async def fetch_orders():
     print("order fetched 🎁")
 
 threading.Thread(target=bg_worker,daemon=True).start()
-threading.Thread(target=bg_worker,daemon=True).join()
+# threading.Thread(target=bg_worker,daemon=True).join()
 
 
 asyncio.run(fetch_orders())
