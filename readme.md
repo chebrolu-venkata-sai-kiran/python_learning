@@ -21,3 +21,11 @@ in chapter 8 we are learning about generators.
 in chapter 9 we are learning about decorators and logging decorators
 
 in chapter 10 we are learning about the OOPS and it's use cases.
+
+in chapter 11 we are learning about the exceptions
+
+in chapter 12 we are learning about the parallelisim and concurrency
+
+in chapter 13 we are learning about the asyns
+
+in chapter 14 we are learning about the pydantic
