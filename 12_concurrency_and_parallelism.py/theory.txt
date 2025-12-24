@@ -15,3 +15,4 @@ Mutex is a locking system using in the python
 if 1 thread touches the value they get the mutex if a theard having the mutex next thread will be unable to access the value 
 and change the value 
 
+ a mechanism used by the default interpreter (CPython) that ensures only one thread can execute Python bytecode at a time within a single process, even on multi-core machines. 
