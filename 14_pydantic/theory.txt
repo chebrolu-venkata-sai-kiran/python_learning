@@ -10,3 +10,8 @@ it allows to stop the data interchangablility of it's type
 
 name = "kiran" if i update name =4 it will update 
 but with Pydantic it will not happen 
+
+
+Pydantic serialization
+
+we try to convert into easily transable ex: dict,json,dict
