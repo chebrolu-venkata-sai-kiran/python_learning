@@ -1,0 +1,39 @@
+how LLM works 
+
+then input which we provided to the LLM are considered as the token and output also comes as token 
+
+GPT - Generative pre-trained transformer
+
+Generative - based on the current input it will generate the text or content
+
+pre-trained - on what basis it is generate the data as this is trained on the data
+
+transformer - it is the reality 
+
+for any input token it will only predict the next output token and append it to the existing one 
+
+what gpt do basically it is a transformer which take the input token and predicting the next token as output
+
+Token: 
+
+converting the user input to the set of the numebers is known as the tokeinization.(it varies model to model)
+
+and detokenization converts the token back to the content 
+
+transformer:
+
+the flow for the transformer is the it will initaly convert the input to the tokens know as the vector embedings
+
+with the positional embedings it will keep the a note of the vector postions to give the response and using the self and multi head 
+
+attention it will try to pick the data which is having the multiple aspects to get the better context and it will feed forward to output
+
+feed forward is basically a neutral network and linear will predict the next words with the probabilities and softmax is the function
+
+which will pick the value which has the more probabilities and it will send again to the loop to get the output softmax can varies 
+
+
+
+
+
+
