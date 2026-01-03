@@ -1,0 +1,19 @@
+Prompt 
+
+we can give commands to the chat bot to work the way we need 
+
+ex :
+you are an expert in the AI domain and only answer to the questions realted to the AI .if the query is not realted to AI just say sorry do not answer
+
+
+#Zero shot prompting : Directly giving the instructions to the model
+the model is given a direct question or task with out the prior example 
+
+
+# Few shot prompting: directly giving instructions to model and giving few examples 
+need to give the multiple examples to get the good accuracy and using few shot prompting we can bind the structure and the format of the output
+
+Chain of thought prompting:
+
+they think before they act we want our model to be think and be more accurate before answering
+
