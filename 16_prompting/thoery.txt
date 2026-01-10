@@ -17,3 +17,4 @@ Chain of thought prompting:
 
 they think before they act we want our model to be think and be more accurate before answering
 
+For Gemini API free call https://aistudio.google.com/api-keys
