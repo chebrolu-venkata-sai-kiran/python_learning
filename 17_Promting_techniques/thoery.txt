@@ -1,0 +1,4 @@
+we have different types of prompting techniques here 
+1.Alpaca prompting 
+2.Chat ML prompting
+3.INST prompting
