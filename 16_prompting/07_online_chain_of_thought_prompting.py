@@ -6,10 +6,8 @@ import openai
 
 load_dotenv()
 
-client = OpenAI(
-    api_key="AIzaSyAG5VdTALeVDZ7OM3XukRzqnWgrcPtEDsU",
-    base_url="https://generativelanguage.googleapis.com/v1beta/"
-)
+load_dotenv()
+client = OpenAI()
 
 # Global variables to track usage in the current session
 session_tokens = 0
@@ -58,7 +56,7 @@ message_history.append({"role": "user", "content": user_query})
 while True:
     try:
         response = client.chat.completions.create(
-            model="gemini-2.0-flash",
+            model="gpt-4.1-mini",
             response_format={"type": "json_object"},
             messages=message_history
         )

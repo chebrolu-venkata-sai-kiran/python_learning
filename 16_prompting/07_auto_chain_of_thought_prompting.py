@@ -4,10 +4,7 @@ import json
 import time
 
 load_dotenv()
-
-client = OpenAI(
-api_key="AIzaSyAG5VdTALeVDZ7OM3XukRzqnWgrcPtEDsU",
-base_url="https://generativelanguage.googleapis.com/v1beta/")
+client = OpenAI()
 #chain of thought 
 
 
@@ -66,7 +63,7 @@ message_history.append({ "role": "user", "content": user_query })
 
 while True:
     response = client.chat.completions.create(
-        model="gemini-2.5-flash",
+        model="gpt-4.1-mini",
         response_format={"type":"json_object"},
         messages=message_history)
     
