@@ -29,3 +29,5 @@ in chapter 12 we are learning about the parallelisim and concurrency
 in chapter 13 we are learning about the asyns
 
 in chapter 14 we are learning about the pydantic
+
+in Rag flow for using the workers in the windows we need to use (rq worker default --worker-class rq.worker.SimpleWorker)
