@@ -31,3 +31,5 @@ in chapter 13 we are learning about the asyns
 in chapter 14 we are learning about the pydantic
 
 in Rag flow for using the workers in the windows we need to use (rq worker default --worker-class rq.worker.SimpleWorker)
+
+in multimodal ai : it is an AI system that can process and integrate the information from multiple data types like text,image,audio,vedio etc
