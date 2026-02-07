@@ -30,6 +30,19 @@ in chapter 13 we are learning about the asyns
 
 in chapter 14 we are learning about the pydantic
 
-in Rag flow for using the workers in the windows we need to use (rq worker default --worker-class rq.worker.SimpleWorker)
+in chapter 15 we are learning about the introduction to llm and how to use it 
 
-in multimodal ai : it is an AI system that can process and integrate the information from multiple data types like text,image,audio,vedio etc
+in chapter 16 we are learning about the prompting 
+
+in chapter 17 we are learning abot the different types of the prompting techniques
+
+in chapter 18 we are learning about how we can create our first agent with the help of the open ai keys
+
+in chapter 19 we are learning about the how we can do RAG on the data which is not available to the internet
+
+in chapter 20 we are learning about the Rag queue flow for using the workers in the windows we need to use (rq worker default --worker-class rq.worker.SimpleWorker)
+
+in chapter 21 we are learning about the multimodal ai : it is an AI system that can process and integrate the information from multiple data types like text,image,audio,vedio etc
+
+in chapter 22 we are learning about the lang graph how we can create an edges, nodes and conditional edges 
+
