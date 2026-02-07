@@ -46,3 +46,22 @@ in chapter 21 we are learning about the multimodal ai : it is an AI system that 
 
 in chapter 22 we are learning about the lang graph how we can create an edges, nodes and conditional edges 
 
+in chapeter 23 we are learning about the short term memory (STM) and long term memory (LTM)
+
+Short term memory:
+1.While you are in the session
+2.while certain task is getting performed 
+
+Long term memory:
+1.stays forever
+2.your name
+3.your age
+4.your preferences
+
+There are few types of the memories in LTM:
+1.Factual Memory(facts about the user)
+2.Episodic Memory(how user talks and past interactions )
+3.semantic Memory(facts about the real world)
+
+
+
