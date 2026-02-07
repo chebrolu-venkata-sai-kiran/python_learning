@@ -78,7 +78,7 @@ def chatbot_updated(state: State):
     print("\n\ninside chatbot_updated function",state)
 
     response = client.chat.completions.create(
-        model="gpt-4.1-mini",
+        model="gpt-4.1",
         messages=[
             
             {"role": "user", "content": state.get("user_query")}
@@ -106,7 +106,7 @@ graph_bulider.add_edge("endnode", END)
 
 graph = graph_bulider.compile()
 
-updated_state = graph.invoke(State({"user_query" : "what is 0 divided by infinete ?"}))
+updated_state = graph.invoke(State({"user_query" : "what is the typig dict in python? and how it use it"}))
 
 print(updated_state)
 
