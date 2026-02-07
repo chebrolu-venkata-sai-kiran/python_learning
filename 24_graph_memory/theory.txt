@@ -1,0 +1,17 @@
+in graphs we have two types of the graphs 
+
+we will have nodes and edges in the graphs where it shows the relation between the nodes with the edges
+
+1.directional graphs
+2.un-directional graphs
+
+vectors store can store the memories in the DB but it misses relations that's where graph memory really works 
+
+graphs gives the information with the relations with the entries and indirect relationships also can be get by the knowledge graph
+
+to store these graphs we need to use the special database like neo4j
+
+Cphyer quries:
+
+CREATE (u: User {name:"kiran} )
+    RETURN u;

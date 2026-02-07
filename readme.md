@@ -63,5 +63,7 @@ There are few types of the memories in LTM:
 2.Episodic Memory(how user talks and past interactions )
 3.semantic Memory(facts about the real world)
 
+in chapter 24 we are learning about the graph memory 
+
 
 
