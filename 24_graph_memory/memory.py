@@ -25,7 +25,7 @@ config = {
     "graph_store":{
         "provider": "neo4j",
         "config" : { 
-            "url": "neo4j+s://e98bad2f.databases.neo4j.io",
+            "url": "neo4j+ssc://e98bad2f.databases.neo4j.io",
              "username": "neo4j",
              "password": "RiBMDDk0Njp4-tPb8CjrlKP5TOoZWu-g6kFdlixDD9s"
 
