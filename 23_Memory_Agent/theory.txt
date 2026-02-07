@@ -1,0 +1,22 @@
+we are learning about the  (STM) and long term memory (LTM)
+
+1.short term memory
+the information going on the ongoing conversation is know as short term memory it is usefull in the conversational AI
+
+2.long term memory (LTM)
+This is scoped to the user it stores the data of the user ,details about it and facts of the person it stores all the data about the user 
+in the database as it stores it will become more data of the user it will cause the issue of the context window 
+to resolve this issue we have three types of the memory here 
+
+
+1.Factual Memory(facts about the user)
+age,name,location,qualification,preferences etc.
+that we need always will be there in the context it will be a small chunk of memory 
+
+
+2.Episodic Memory(how user talks and past interactions)
+the information about the previous interactions on demand long term memory (when did i went to paris ?, i don't want to talk about politics)
+
+3.semantic Memory(facts about the real world)
+india capital is delhi is an example for this 
+general knowledge 
