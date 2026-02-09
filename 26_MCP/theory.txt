@@ -1,0 +1,9 @@
+llm only do the predicts the next words 
+
+where agents shines is what all tools and what is the system prompt you are giving 
+tools are important and how to combine tool and model is also important
+
+to solve this issue we are using MCP it is kind of the rest API where we can connect to the endpoints and use the tools with the models.
+
+
+
