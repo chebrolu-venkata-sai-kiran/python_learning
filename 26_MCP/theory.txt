@@ -5,5 +5,17 @@ tools are important and how to combine tool and model is also important
 
 to solve this issue we are using MCP it is kind of the rest API where we can connect to the endpoints and use the tools with the models.
 
+three parts we have in MCP
 
+1.MCP Host
+
+The AI application is bascially MCP Host
+
+2.MCP Client
+
+inside my ide we have mcp Client which is running
+
+3.MCP Server
+
+which API exposed and which application you want to connect
 
