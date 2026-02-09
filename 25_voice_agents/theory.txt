@@ -1,0 +1,16 @@
+we are having the LLM where it can take the input tokens and predicts the output token by token 
+
+we have two types to create the conversational AI
+
+1.Speech to Speech (S2S)
+it will send the voice to an agent and from agent it will recive voice 
+it has low latency
+it is costly
+
+2.Chained Arch
+here we are converting the speech to text(STT) and use the gpt models and
+we can use the text from LLM and convert into text using text to speech(TTS)
+
+we can use any llm model for this we are not bind to any model we can choose any model
+
+
