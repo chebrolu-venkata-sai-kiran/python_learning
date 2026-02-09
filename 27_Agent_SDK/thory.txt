@@ -1,0 +1,4 @@
+LLM + Instructions + Tools = Agent
+
+it will have the Guardrails(input and output) and History
+
