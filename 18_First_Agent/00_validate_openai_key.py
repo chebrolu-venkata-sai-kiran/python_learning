@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 try:
     response = client.responses.create(
