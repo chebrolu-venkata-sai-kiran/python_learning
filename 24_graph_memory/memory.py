@@ -25,13 +25,10 @@ config = {
     "graph_store":{
         "provider": "neo4j",
         "config" : { 
-            "url": "neo4j+ssc://e98bad2f.databases.neo4j.io",
-             "username": "neo4j",
-             "password": "RiBMDDk0Njp4-tPb8CjrlKP5TOoZWu-g6kFdlixDD9s"
-
+            "url": os.getenv("NEO4J_URI", ""),
+            "username": os.getenv("NEO4J_USERNAME", "neo4j"),
+            "password": os.getenv("NEO4J_PASSWORD", ""),
         }
-
-
     },
     "vector_store":{        
         "provider": "qdrant",

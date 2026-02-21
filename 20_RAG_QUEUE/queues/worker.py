@@ -21,7 +21,7 @@ def process_queue(query:str):
     print("searching chunks",query)
     search_results = vector_db.similarity_search(query=query, k=3)
     context = "\n\n\n".join( [
-    f"Page Content: {result.page_content} \n Page Number: {result. metadata ['page_label' ]}  File Location: {result.metadata ['source' ] }" for result in search_results ])
+    f"Page Content: {result.page_content} \n Page Number: {result.metadata['page_label']}  File Location: {result.metadata['source']}" for result in search_results ])
     SYSTEM_PROMPT = f"""
     you are a helpful AI assistant. You will be given a list of documents related to the user's query.
     Your task is to summarize the most relevant document(s) in a concise and informative manner.
