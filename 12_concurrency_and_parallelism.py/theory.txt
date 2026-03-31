@@ -1,4 +1,4 @@
-concurency : i want to multiple task at once some specified task happened to do one task and switch 
+concurency : i want to run multiple task at once some specified task happened to do one task and switch 
 to another task with out affrecting it can do with single core
 
 prarallelism:

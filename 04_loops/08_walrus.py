@@ -16,8 +16,8 @@ names = ["sai", "kiran","venkata", "chebrolu"]
 
 print("student names:",names)
 
-while (name := input("enter the name to search: ")) not in names:
+while (name := input("enter the name to search: ")).lower() not in names:
     print(f"{name} is not present in the list. Please enter a valid name.")
 
-print(f"{name} is present in the list")
+print(f"{name.lower()} is present in the list")
 

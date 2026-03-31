@@ -21,3 +21,7 @@ example 2
 [k for item in iterable for k in item]
 
 here we are giving the final output which we need in the list as K
+
+Memory Efficiency: Generators don't store the entire sequence in memory. For example, a generator expression like (x for x in range(100000)) uses only ~88 bytes, while a list [x for x in range(100000)] can use tens of thousands of bytes. 
+Lazy Evaluation: Values are generated only when needed (e.g., during iteration), which saves both memory and computation time if not all values are used. 
+Ideal for Large Data: Perfect for processing large files, infinite sequences, or data streams where loading everything into memory is impractical.

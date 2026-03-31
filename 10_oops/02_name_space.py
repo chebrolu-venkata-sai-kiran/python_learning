@@ -1,11 +1,11 @@
 class drink:
     origin = "india"
 
-# print(drink.origin)
+print(drink.origin)
 
 drink.is_cold = True
 
-# print(drink.is_cold)
+print(drink.is_cold)
 
 
 #creating the object
